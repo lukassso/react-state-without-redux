@@ -13,3 +13,4 @@ Mimicking Redux features with React Hooks and Context API
 
 `COMPLETE = 'ITEMS_COMPLETE'`
 
+set main 
