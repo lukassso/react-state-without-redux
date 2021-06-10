@@ -1,0 +1,6 @@
+githubRepoOwner: ""
+githubRepoName: ""
+requireChecks: true
+requireApproval: true
+showPRLink: true
+cleanupRemoteBranch: true
